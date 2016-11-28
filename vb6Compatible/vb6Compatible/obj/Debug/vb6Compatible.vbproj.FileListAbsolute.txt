@@ -1,0 +1,9 @@
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\bin\Debug\vb6Compatible.dll
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\bin\Debug\vb6Compatible.pdb
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\bin\Debug\vb6Compatible.xml
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\obj\Debug\vb6Compatible.vbprojResolveAssemblyReference.cache
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\obj\Debug\vb6Compatible.Resources.resources
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\obj\Debug\vb6Compatible.vbproj.GenerateResource.Cache
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\obj\Debug\vb6Compatible.dll
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\obj\Debug\vb6Compatible.xml
+C:\Users\kazui\OneDrive\ドキュメント\Visual Studio 2015\Projects\vb6Compatible\vb6Compatible\obj\Debug\vb6Compatible.pdb
